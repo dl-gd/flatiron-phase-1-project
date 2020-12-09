@@ -114,14 +114,3 @@ Given the necessary time, additional analysis could provide insight on questions
 You can find more in-depth analysis in the [Jupyter Notebook](https://github.com/dl-gd/flatiron-phase-1-project/blob/master/MicrosoftFilmStudio.ipynb), or get a cursory review through this [presentation](https://github.com/dl-gd/flatiron-phase-1-project/blob/master/MicrosoftFilmPresentation.pdf).
 
 For additional info, contact Dominic Garcia at dlgarcia.017@gmail.com
-
-## Repository Structure
-***
-├── .ipynb_checkpoints
-├── images
-├── zippedData
-├── .DS_Store
-├── MicrosoftFilmPresentation.pdf
-├── MicrosoftFilmNotebook.pdf
-├── MicrosoftFilmStudio.ipynb
-└── README.md
